@@ -20,10 +20,3 @@ OCR Reader is an Android application designed to extract text from images using 
 
 - Android Studio installed on your development machine.
 - Android device or emulator running Android 5.0 (Lollipop) or higher.
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/venzenio/OCR-Reader.git
